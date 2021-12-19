@@ -6,11 +6,12 @@ namespace ExerciseRadius
     {
         static void Main(string[] args)
         {
+            //Allow user to input radius
             Console.WriteLine("What is the radius of your circle?");
 
             var radius = double.Parse(Console.ReadLine());
 
-            //Use our public method to calculate area
+            //Use our public method to calculate area of circle
             double areaCircle = AreaOfCircle(radius);
 
             //Write out area for user
@@ -20,13 +21,8 @@ namespace ExerciseRadius
 
         public static double AreaOfCircle(double radius)
         {
-            var r = 20;
-            var pi = Math.PI;
-
             //Calculates the area of the circle using radius inputted by user
-            var areaOfCircle = pi * (r * r);
-
-            return areaOfCircle;
+            return Math.PI * (radius * radius);
 
         }
 
