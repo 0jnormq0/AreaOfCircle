@@ -1,0 +1,13 @@
+C:\Users\rnv84379\source\repos\ExerciseRadius\ExerciseRadius\bin\Debug\netcoreapp3.1\ExerciseRadius.exe
+C:\Users\rnv84379\source\repos\ExerciseRadius\ExerciseRadius\bin\Debug\netcoreapp3.1\ExerciseRadius.deps.json
+C:\Users\rnv84379\source\repos\ExerciseRadius\ExerciseRadius\bin\Debug\netcoreapp3.1\ExerciseRadius.runtimeconfig.json
+C:\Users\rnv84379\source\repos\ExerciseRadius\ExerciseRadius\bin\Debug\netcoreapp3.1\ExerciseRadius.runtimeconfig.dev.json
+C:\Users\rnv84379\source\repos\ExerciseRadius\ExerciseRadius\bin\Debug\netcoreapp3.1\ExerciseRadius.dll
+C:\Users\rnv84379\source\repos\ExerciseRadius\ExerciseRadius\bin\Debug\netcoreapp3.1\ExerciseRadius.pdb
+C:\Users\rnv84379\source\repos\ExerciseRadius\ExerciseRadius\obj\Debug\netcoreapp3.1\ExerciseRadius.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rnv84379\source\repos\ExerciseRadius\ExerciseRadius\obj\Debug\netcoreapp3.1\ExerciseRadius.AssemblyInfoInputs.cache
+C:\Users\rnv84379\source\repos\ExerciseRadius\ExerciseRadius\obj\Debug\netcoreapp3.1\ExerciseRadius.AssemblyInfo.cs
+C:\Users\rnv84379\source\repos\ExerciseRadius\ExerciseRadius\obj\Debug\netcoreapp3.1\ExerciseRadius.csproj.CoreCompileInputs.cache
+C:\Users\rnv84379\source\repos\ExerciseRadius\ExerciseRadius\obj\Debug\netcoreapp3.1\ExerciseRadius.dll
+C:\Users\rnv84379\source\repos\ExerciseRadius\ExerciseRadius\obj\Debug\netcoreapp3.1\ExerciseRadius.pdb
+C:\Users\rnv84379\source\repos\ExerciseRadius\ExerciseRadius\obj\Debug\netcoreapp3.1\ExerciseRadius.genruntimeconfig.cache
